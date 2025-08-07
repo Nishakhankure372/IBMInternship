@@ -115,7 +115,7 @@ results/	Model performance reports and visualizations
 README.md	Project documentation (this file)
 
 🔗 Contact
-LinkedIn: Nisha Khankure
+LinkedIn: [Nisha Khankure](https://www.linkedin.com/in/nisha-khankure-531195284/)
 
 Email: mca24.nishakhankure@asmedu.org
 
